@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Projetos
-![github](https://github.com/Henrique-Silva-Leao/calculadora-python)
+![Calculadora em Python](https://github.com/Henrique-Silva-Leao/calculadora-python)
 
 ---
 
