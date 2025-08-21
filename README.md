@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Projetos
-- Ainda não possuo projetos publicados, mas em breve adicionarei meus primeiros trabalhos acadêmicos e exercícios práticos.
+![github](https://github.com/Henrique-Silva-Leao/calculadora-python)
 
 ---
 
