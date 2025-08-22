@@ -25,7 +25,7 @@
 ## 📂 Projetos
 [Calculadora em Python](https://github.com/Henrique-Silva-Leao/calculadora-python)
 ---
-[Calculadora em javascript](https://github.com/Henrique-Silva-Leao/calculadora-javascript)
+[Calculadora em javascript](https://github.com/Henrique-Silva-Leao/calculadora-javascript).
 [Link para acesso](https://henrique-silva-leao.github.io/calculadora-javascript/)
 ---
 ## 📫 Como me encontrar
