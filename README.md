@@ -24,8 +24,9 @@
 
 ## 📂 Projetos
 [Calculadora em Python](https://github.com/Henrique-Silva-Leao/calculadora-python)
-
 ---
+[Calculadora em javascript](https://github.com/Henrique-Silva-Leao/calculadora-javascript)
+[Link para acesso](https://henrique-silva-leao.github.io/calculadora-javascript/)
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-leao-782526319)
