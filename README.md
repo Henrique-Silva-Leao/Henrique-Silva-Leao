@@ -27,9 +27,13 @@
 
 [Calculadora em javascript](https://github.com/Henrique-Silva-Leao/calculadora-javascript)
 
+[Weather app](https://github.com/Henrique-Silva-Leao/weather-app)
+
 Acessos WEB
 ---
 [Calculadora em javascript](https://henrique-silva-leao.github.io/calculadora-javascript/)
+
+[Weather app](https://henrique-silva-leao.github.io/weather-app/)
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-leao-782526319)
